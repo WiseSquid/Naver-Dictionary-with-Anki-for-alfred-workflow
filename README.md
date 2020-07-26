@@ -32,3 +32,8 @@
 ## Reference
 
 [https://github.com/aseom/alfred-workflows](https://github.com/aseom/alfred-workflows)
+
+
+## If this is helpful for you
+
+<a href="https://www.buymeacoffee.com/WiseSquid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
