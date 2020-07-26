@@ -33,7 +33,7 @@ def callback(query):
 
     response = requests.get(url, headers=header, params=queryParams)
 
-    jsonResult = get_naver_json_form(response.content, r'window\.__jindo2_callback\._3731\((.*?)\)')
+    jsonResult = get_naver_json_form(response.content, r'window\.__jindo2_callback\._3731\((.*)\)')
     results = []
     for data in jsonResult['items'][0]:
         data = list(itertools.chain(*data)) # remove inner list
