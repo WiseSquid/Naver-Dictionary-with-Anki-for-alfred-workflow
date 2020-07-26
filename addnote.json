@@ -1,0 +1,15 @@
+{
+    "note": {
+        "deckName": $deckname,
+        "modelName": "Basic",
+        "fields": {
+            "Front": $front,
+            "Back": $back
+        },
+        "options": {
+            "allowDuplicate": false,
+            "duplicateScope": "deck"
+        },
+        "tags": []
+    }
+}
